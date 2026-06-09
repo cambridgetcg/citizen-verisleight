@@ -1,0 +1,8 @@
+name: verisleight
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: Truth arranged to produce false conclusions, where every statement is true but the whole picture lies.
+dependsOn: [youspeak, me, dokimance, zerone]
